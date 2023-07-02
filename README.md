@@ -1,19 +1,15 @@
 # Java Programming: Principles of Software Design
 
-Solutuions to assignments for the course that is offered at <a href="https://www.coursera.org/learn/java-programming-design-principles"> Coursera </a>, by Duke Universitry.
+This course is offered at <a href="https://www.coursera.org">Coursera</a> and is part of the <a href="https://www.coursera.org/specializations/java-programming">Java Programming and Software Engineering Fundamentals</a>.
 
+This is the fourth course of the Specialization, <a href="https://www.coursera.org/learn/java-programming-design-principles">Link to the course</a>.
 
-### Link to the course
-https://www.coursera.org/learn/java-programming-design-principles
+<hr>
 
+# YUSUF CAGRI DAL's note
+ Here's <a href="https://www.coursera.org/account/accomplishments/verify/U7DQZTNRETSF">the link to the Certificate.</a>
 
-### To Be Noted
- * For this course, you will need some resources provided here: <a href="https://www.dukelearntoprogram.com//course4/files.php">[Project Resources]</a>.
-
-### Update
-I finished the course on Oct 11, 2020. View my <a href="https://www.coursera.org/account/accomplishments/certificate/WQST8ANB3QN3"> Certficate</a>.
-
-### Learning Outcomes
+<h3>What I learned in this course:</h3>
   * Skills I Gained:
     * Interfaces
     * Abstract Classes
